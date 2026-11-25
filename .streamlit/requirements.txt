@@ -1,0 +1,6 @@
+REQUIREMENTS FOR RUNNING PROJECT
+streamlit
+pandas
+numpy
+plotly
+scipy

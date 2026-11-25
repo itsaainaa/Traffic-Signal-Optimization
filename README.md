@@ -86,7 +86,7 @@ pip install streamlit pandas numpy plotly scipy
 ### 4. Run the Dashboard
 
 ```bash
-python -m streamlit run app.py
+python -m streamlit run lastest_app.py
 ```
 
 The dashboard will be available at:
@@ -100,7 +100,7 @@ http://localhost:8501
 ```text
 Traffic-Signal-Optimization/
 │
-├── app.py
+├── lastest_app.py
 ├── Ahmedabad_Traffic_2036_Master_Dataset.csv
 ├── requirements.txt
 └── README.md

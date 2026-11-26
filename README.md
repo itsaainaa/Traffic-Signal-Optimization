@@ -9,6 +9,11 @@ This project presents an interactive, simulation-based framework for analysing t
 Developed using Python and Streamlit, the dashboard combines statistical analysis, vehicle composition modelling, future traffic scenario simulation, and mathematical optimization to understand traffic patterns and evaluate alternative signal timing strategies.
 
 The project focuses on analysing current traffic conditions (2026) and exploring possible future traffic conditions (2036) under different growth and vehicle composition assumptions.
+### Live Dashboard
+
+Explore the interactive Traffic Signal Optimization Dashboard, featuring real-time-style traffic analysis, signal optimization, forecasting, and data visualizations.
+
+🔗 **Live Demo:** https://traffic-signal-optimization.streamlit.app/
 
 ## 🎯 Key Features
 
